@@ -1,0 +1,8 @@
+name: flare_helper
+
+environment:
+    sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+    colorize: ^2.0.0
+    flare_dart: ^2.3.4
